@@ -6,7 +6,7 @@ import subprocess
 
 import getpass
 
-passwd = getpass.getpass('Please enthe the password: ')   # getpass the password and secret
+passwd = getpass.getpass('Please enter the password: ')   # getpass the password and secret
 
 enable = getpass.getpass('Please enter the enable secret: ')
 
